@@ -1,0 +1,13 @@
+<html>
+<head>
+	<title> Test 1 </title>
+<link rel= "stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<h1>I like bandicoots.</h1>
+<img src test.jpg>	
+<p> This my test with ID.</p>
+<p< This is my test without an ID. </p>
+
+</body>
+</html>
