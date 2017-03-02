@@ -5,9 +5,9 @@
 </head>
 <body>
 <h1>I like bandicoots.</h1>
-<img src="google.jpg">	
-<p id="google"> This my test with ID.</p>
-<p>This is my test without an ID. </p>
+<img src test.jpg>	
+<p> This my test with ID.</p>
+<p< This is my test without an ID. </p>
 
 </body>
 </html>
